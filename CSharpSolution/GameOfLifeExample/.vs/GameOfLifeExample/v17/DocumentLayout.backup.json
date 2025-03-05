@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tim\\Desktop\\GameOfLife2025Challenge\\CSharpSolution\\GameOfLifeExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{73A3218C-0AB0-4242-96E4-C93BF7147915}|GameOfLifeExample.csproj|c:\\users\\tim\\desktop\\gameoflife2025challenge\\csharpsolution\\gameoflifeexample\\controlsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73A3218C-0AB0-4242-96E4-C93BF7147915}|GameOfLifeExample.csproj|solutionrelative:controlsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73A3218C-0AB0-4242-96E4-C93BF7147915}|GameOfLifeExample.csproj|C:\\Users\\tim\\Desktop\\GameOfLife2025Challenge\\CSharpSolution\\GameOfLifeExample\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73A3218C-0AB0-4242-96E4-C93BF7147915}|GameOfLifeExample.csproj|solutionrelative:board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73A3218C-0AB0-4242-96E4-C93BF7147915}|GameOfLifeExample.csproj|C:\\Users\\tim\\Desktop\\GameOfLife2025Challenge\\CSharpSolution\\GameOfLifeExample\\cell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73A3218C-0AB0-4242-96E4-C93BF7147915}|GameOfLifeExample.csproj|solutionrelative:cell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cell.cs",
+              "DocumentMoniker": "C:\\Users\\tim\\Desktop\\GameOfLife2025Challenge\\CSharpSolution\\GameOfLifeExample\\Cell.cs",
+              "RelativeDocumentMoniker": "Cell.cs",
+              "ToolTip": "C:\\Users\\tim\\Desktop\\GameOfLife2025Challenge\\CSharpSolution\\GameOfLifeExample\\Cell.cs",
+              "RelativeToolTip": "Cell.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T17:50:47.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Board.cs",
+              "DocumentMoniker": "C:\\Users\\tim\\Desktop\\GameOfLife2025Challenge\\CSharpSolution\\GameOfLifeExample\\Board.cs",
+              "RelativeDocumentMoniker": "Board.cs",
+              "ToolTip": "C:\\Users\\tim\\Desktop\\GameOfLife2025Challenge\\CSharpSolution\\GameOfLifeExample\\Board.cs",
+              "RelativeToolTip": "Board.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T15:39:07.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ControlSystem.cs",
+              "DocumentMoniker": "C:\\Users\\tim\\Desktop\\GameOfLife2025Challenge\\CSharpSolution\\GameOfLifeExample\\ControlSystem.cs",
+              "RelativeDocumentMoniker": "ControlSystem.cs",
+              "ToolTip": "C:\\Users\\tim\\Desktop\\GameOfLife2025Challenge\\CSharpSolution\\GameOfLifeExample\\ControlSystem.cs",
+              "RelativeToolTip": "ControlSystem.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAowD8AAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T15:38:09.801Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
